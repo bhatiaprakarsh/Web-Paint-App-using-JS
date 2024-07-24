@@ -1,1 +1,1 @@
-# Web-Paint-App-using-JS
+# Web Paint App(using JS)
